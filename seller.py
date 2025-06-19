@@ -104,4 +104,4 @@ def get_product_info_with_image(product: str):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("seller_server:app", host="127.0.0.1", port=8001)
+    uvicorn.run("seller:app", host="127.0.0.1", port=8001)
