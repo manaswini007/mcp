@@ -124,4 +124,4 @@ def view_orders(buyer: str):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("buyer_server:app", host="127.0.0.1", port=8000)
+    uvicorn.run("buyer:app", host="127.0.0.1", port=8000)
