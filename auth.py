@@ -44,4 +44,4 @@ def login_user(username: str, password: str):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("main_store:app", host="127.0.0.1", port=8002)
+    uvicorn.run("auth:app", host="127.0.0.1", port=8002)
