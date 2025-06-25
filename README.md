@@ -1,6 +1,6 @@
 #  Super Store MCP - E-Commerce Platform
 
-## able of Contents
+## Table of Contents
 
 1. [Overview](#-overview)
 2. [Project Structure](#-project-structure)
