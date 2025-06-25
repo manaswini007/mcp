@@ -218,7 +218,7 @@ To reattach: `tmux attach -t myservers`
 
 ##  Author
 
-**ManasWini**
+**Manaswini**
 Student Developer | MCP Integration | AWS EC2 & FastAPI
 
 ---
